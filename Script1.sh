@@ -4,3 +4,10 @@ echo "We are learning Branching"
 echo "I am learning Git"
 echo "My first practical of Git"
 echo "i am devops aspirant"
+<<<<<<< HEAD
+=======
+
+
+
+
+>>>>>>> 5c321fcd632a3f7858e89306d16dafb5bf115017
