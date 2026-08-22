@@ -3,10 +3,8 @@ echo "We are from batch-33 and learning git/gihub"
 echo "We are learning Branching"
 echo "I am learning Git"
 echo "My first practical of Git"
-echo "try again"
 echo "i am devops aspirant"
-echo "i am learning branching"
-echo "let's learn merge conflict"
+
 
 
 
