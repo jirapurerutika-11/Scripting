@@ -4,7 +4,3 @@ echo "We are learning Branching"
 echo "I am learning Git"
 echo "My first practical of Git"
 echo "i am devops aspirant"
-
-
-
-
