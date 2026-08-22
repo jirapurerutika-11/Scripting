@@ -5,5 +5,8 @@ echo "I am learning Git"
 echo "My first practical of Git"
 echo "try again"
 echo "i am devops aspirant"
-echo "i am learning branching in github"
+echo "i am learning branching"
 echo "let's learn merge conflict"
+
+
+
